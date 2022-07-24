@@ -1,0 +1,18 @@
+.single {
+    padding: 20px 16px;
+    background-color: #fff;
+    display: block;
+    margin: 20px 10px;
+    border-left: 8px solid #fff;
+    transition: 0.2s all;
+    text-decoration: none;
+    color: black;
+}
+.single > h3 {
+    background-color: #fff;
+}
+
+.single:hover {
+    border-left: 8px solid #4979ff;
+    cursor: pointer;
+}
